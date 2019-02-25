@@ -1,0 +1,6 @@
+Dwarf,1
+Gnome,2
+Draenei,3
+IceWall,0
+Storm,0
+Chasm,0

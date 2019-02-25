@@ -1,0 +1,6 @@
+FrostBolt
+FireBolt
+ShadowBolt
+MoonBolt
+StormShield
+Levitate
